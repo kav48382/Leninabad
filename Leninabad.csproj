@@ -35,5 +35,39 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="index.html" />
+    <Content Include="Lbd13l.jpg" />
+    <Content Include="Lbd13ll.jpg" />
+    <Content Include="Lbd13r.jpg" />
+    <Content Include="Lbd13rl.jpg" />
+    <Content Include="lbdspa1.jpg" />
+    <Content Include="lbdspa2.jpg" />
+    <Content Include="lbdspase2.htm" />
+    <Content Include="lbdspasehtm.htm" />
+    <Content Include="lbp09991.gif" />
+    <Content Include="lbp09992.gif" />
+    <Content Include="lbp09993.gif" />
+    <Content Include="lbp09994.gif" />
+    <Content Include="lbp18.gif" />
+    <Content Include="lbp28.gif" />
+    <Content Include="lbp38.gif" />
+    <Content Include="lbp48.gif" />
+    <Content Include="lbp58.gif" />
+    <Content Include="lbp68.gif" />
+    <Content Include="lbp78.gif" />
+    <Content Include="lbp88.gif" />
+    <Content Include="lbpH.GIF" />
+    <Content Include="lbpHdr.gif" />
+    <Content Include="MyInfo.htm" />
+    <Content Include="namaz2.jpg" />
+    <Content Include="namaz2m.jpg" />
+    <Content Include="Rroad.jpg" />
+    <Content Include="rroadm.jpg" />
+    <Content Include="sharzh.jpg" />
+    <Content Include="sharzhm.jpg" />
+    <Content Include="tjflag.gif" />
+    <Content Include="tjflagm.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
